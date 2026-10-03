@@ -1,0 +1,55 @@
+{
+  "name": "timecard-engine",
+  "version": "1.0.0",
+  "description": "Zero-dependency time card & timesheet calculation engine: worked hours, breaks, 7-minute rounding, FLSA and California overtime, gross pay, decimal hours, military time, salary conversions. Powers timecardcentral.com.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "main": "./src/index.mjs",
+  "types": "./types/index.d.ts",
+  "exports": {
+    ".": "./src/index.mjs",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "timecard": "./src/cli.mjs"
+  },
+  "files": [
+    "src",
+    "types",
+    "examples"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "timecard",
+    "time-card-calculator",
+    "timesheet",
+    "hours-calculator",
+    "overtime",
+    "flsa",
+    "california-overtime",
+    "decimal-hours",
+    "military-time",
+    "payroll",
+    "wage",
+    "timeclock",
+    "7-minute-rounding"
+  ],
+  "author": {
+    "name": "TimeCard Central",
+    "url": "https://timecardcentral.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invoicetariff/timecard-engine.git"
+  },
+  "homepage": "https://github.com/invoicetariff/timecard-engine#readme",
+  "bugs": {
+    "url": "https://github.com/invoicetariff/timecard-engine/issues"
+  }
+}

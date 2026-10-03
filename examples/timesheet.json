@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "period": "biweekly",
+    "hourlyRate": 18,
+    "weeklyOtThreshold": 40,
+    "jurisdiction": "flsa",
+    "otMultiplier": 1.5,
+    "dtMultiplier": 2,
+    "rounding": { "mode": "none", "applyTo": "none" }
+  },
+  "days": [
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 0 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 0 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 0 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 0 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 1 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 1 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 1 },
+    { "in": "8:00", "out": "18:15", "breakMinutes": "0", "weekIndex": 1 }
+  ]
+}
