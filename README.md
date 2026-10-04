@@ -1,7 +1,7 @@
 # timecard-engine
 
 [![npm version](https://img.shields.io/npm/v/timecard-engine.svg)](https://www.npmjs.com/package/timecard-engine)
-[![CI](https://github.com/invoicetariff/timecard-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/invoicetariff/timecard-engine/actions/workflows/ci.yml)
+[![CI](https://github.com/voltaudits/timecard-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/voltaudits/timecard-engine/actions/workflows/ci.yml)
 [![license](https://img.shields.io/npm/l/timecard-engine.svg)](./LICENSE)
 
 Zero-dependency time card & timesheet calculation engine for JavaScript — the

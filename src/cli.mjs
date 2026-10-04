@@ -361,7 +361,7 @@ Examples:
   timecard military 1800
   timecard salary --annual 52000
 
-Docs: https://github.com/invoicetariff/timecard-engine
+Docs: https://github.com/voltaudits/timecard-engine
 Web calculator: https://timecardcentral.com`;
 
 function helpFor(cmd) {

@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/invoicetariff/timecard-engine.git"
+    "url": "git+https://github.com/voltaudits/timecard-engine.git"
   },
-  "homepage": "https://github.com/invoicetariff/timecard-engine#readme",
+  "homepage": "https://github.com/voltaudits/timecard-engine#readme",
   "bugs": {
-    "url": "https://github.com/invoicetariff/timecard-engine/issues"
+    "url": "https://github.com/voltaudits/timecard-engine/issues"
   }
 }
